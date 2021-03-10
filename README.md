@@ -1,0 +1,1 @@
+# CodeForThm3.3_n_less_than_10
